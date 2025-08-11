@@ -2,6 +2,7 @@ import numpy as np
 
 # === BUGS ===
 # 1. Which command allow for reproducible results?
+np.random.seed(20) #set same starting state
 arr = np.random.rand(5) * 100  # Random array
 
 # 2. Inefficient filtering!
