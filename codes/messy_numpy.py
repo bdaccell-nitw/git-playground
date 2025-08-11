@@ -2,6 +2,7 @@ import numpy as np
 
 # === BUGS ===
 # 1. Which command allow for reproducible results?
+np.random.seed(10) #set same starting state
 arr = np.random.rand(5) * 100  # Random array
 
 # 2. Inefficient filtering!
@@ -43,3 +44,4 @@ def square_elements(arr):
 # 7. Does this work for 2D arrays?
 def stack_vertically(a, b):
     return a + b
+
