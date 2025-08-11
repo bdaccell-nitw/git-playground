@@ -2,7 +2,7 @@
 
 _(inspiration from https://github.com/yash-srivastava19/missing-semester-bdacc)_
 
-Learn git by playing around with it and not the other way around :) ! BDACC 2025-26
+Learn git by playing around with it and not the other way around 😎 ! BDACC 2025-26
 
 
 
@@ -16,12 +16,12 @@ Learn git by playing around with it and not the other way around :) ! BDACC 2025
 
  Steps to follow
 --
-- Fork the repository to their own GitHub account(if you don't have, make one!).
+- Fork the repository to your own GitHub account (if you don't have, make one!).
 - Clone your version of forked repository to your local machines.
-- Fix the bugs:  Make the necessary changes to fix issues in the python files in `codes/` folder (marked with `# BUG` or `# TASK`) .
-- Create a new branch: Create a new branch(see the resources shared with you!) for each issue you want to fix or optimize, with a descriptive name   
-(e.g., `fix-bug4-syntax_error`).
-- Commit changes: Commit your changes to your branch with a descriptive commit message explaining the issue you fixed or the improvement you made.
+- Fix the bugs/Optimize codes :  Make the necessary changes to fix issues in the python files in `codes/` folder (marked with `# BUG` or `# TASK`) .
+- Create a new branch: For each issue you want to fix or optimize  , create a new branch with a descriptive name   
+  (e.g., `fix-bug4-syntax_error`).
+- Commit changes : Commit your changes to your branch with a descriptive commit message explaining the issue you fixed or the improvement you made.
 - Push to GitHub: Push your branch to your forked repository on GitHub.
 - Create a Pull Request (PR): Create a Pull Request (PR) from your branch to the main repository, describing the issue you fixed and the changes you made.
 
@@ -39,5 +39,5 @@ Just relax and follow this flow:
 `Fork → Clone → Branch → Fix → Commit → Push → PR* → Review → Merge`  
 
 
-######  _*PR stands for Pull Request and not Public Relations_ :)
+######  _*PR stands for Pull Request and not Public Relations_ 😁
 
