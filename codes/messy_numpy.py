@@ -6,11 +6,7 @@ np.random.seed(20) #set same starting state
 arr = np.random.rand(5) * 100  # Random array
 
 # 2. Inefficient filtering!
-filtered = []
-for x in arr:
-    if x > 50:
-        filtered.append(x)
-filtered = np.array(filtered)
+filtered = arr[arr>50] #filtering boolean indexing technique
 
 # 3. Any better method to calculate mean?
 total = 0
